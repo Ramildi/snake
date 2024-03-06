@@ -1,0 +1,108 @@
+.box{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(ilan.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+    .marhey {
+      font-family: "Marhey", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 10px;
+      font-style: normal;
+      font-size: 70px;
+      color: rgb(225, 211, 194);
+    }
+
+.metn {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.exo-2 {
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100px;
+  font-style: normal;
+  font-size: 50px;
+  color: aliceblue;
+}
+
+
+
+a {
+    font-style: italic;
+     text-decoration: none;
+     color: rgb(149, 113, 68);
+
+}
+
+.buton {
+    font-style:normal;
+}
+button {
+    margin-top: 45px;
+    border-radius: 15px;
+    background-color: #765d3b;
+    color: aliceblue;
+    width: 100px;
+    height: 50px;
+    box-shadow: -1px -1px 23px -5px rgba(255, 252, 252, 0.85);
+    -webkit-box-shadow: -1px -1px 23px -5px rgba(255, 252, 252, 0.85);
+    -moz-box-shadow: -1px -1px 23px -5px rgba(255, 252, 252, 0.85);
+}
+.roboto{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #f6f7f6;
+  }
+  .melumat {
+    background-color: bisque;
+    width: 100%;
+    height: 100vh;
+  }
+  .metn2 {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  
+}
+.marhey2 {
+    font-family: "Marhey", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+    font-size: 70px;
+    color: rgb(53, 38, 18);
+    text-align: center;
+}
+.metin2{
+    background-color: #4f493a;
+    width: 100%;
+    height: 100vh;
+  }
+  .roboto2{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #040404;
+  }
+  img {
+        display: block;
+        margin: 0 auto;
+       margin-top: 60px;
+        width: 500px;
+        height: 300px;
+  }
+  
+
+  
+ 
+
+  
