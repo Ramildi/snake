@@ -1,3 +1,8 @@
+
+body {
+  background-color: #4f493a ;
+
+}
 .box{
     width: 100%;
     background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(ilan.jpg);
